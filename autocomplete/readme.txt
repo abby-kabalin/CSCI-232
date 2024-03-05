@@ -33,11 +33,11 @@ continues until the first occurance of the key is found or lo becomes greater th
  *  leading coefficients and lower-order terms, e.g., m^2 + m log n.
  *****************************************************************************/
 
-constructor: 
+constructor: N log N
 
-allMatches():
+allMatches(): N + M log M
 
-numberOfMatches():
+numberOfMatches(): log N
 
 
 
@@ -45,7 +45,8 @@ numberOfMatches():
 /******************************************************************************
  *  Known bugs / limitations.
  *****************************************************************************/
-
+This is an accessory, not a product. Autocomplete is a tool to add to a project,
+but as a stand alone app it wouldn't be very functional
 
 /******************************************************************************
  *  Describe whatever help (if any) that you received.
@@ -56,12 +57,12 @@ numberOfMatches():
  *  Also include any resources (including the web) that you may
  *  may have used in creating your design.
  *****************************************************************************/
-
+n/a
 
 /******************************************************************************
  *  Describe any serious problems you encountered.
  *****************************************************************************/
-
+n/a
 
 
 
